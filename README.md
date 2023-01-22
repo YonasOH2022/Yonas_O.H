@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YonasOH2022
-- 👀 I’m interested in C++ 
+- 👀 I’m interested in ROS and C++ 
 - 🌱 I’m currently learning C++ and python.
 - 💞️ I’m looking to collaborate on AI-Robots Frameworks.
 - 📫 How to reach me here 😊
