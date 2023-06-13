@@ -1,4 +1,4 @@
-- 👋 🌱 I’m learning C++ and python
+- 👋 🌱 I am learning and doing C++ and python
 
 <!---
 YonasOH2022/YonasOH2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
